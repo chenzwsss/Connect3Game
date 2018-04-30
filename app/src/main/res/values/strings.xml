@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Connect 3 Game</string>
+    <string name="text_button">Play Again!</string>
+    <string name="text_view">someone has win!</string>
+    <string name="text_imageview_1">text_imageview_1</string>
+    <string name="text_imageview_2">text_imageview_2</string>
+    <string name="text_imageview_3">text_imageview_3</string>
+    <string name="text_imageview_4">text_imageview_4</string>
+    <string name="text_imageview_5">text_imageview_5</string>
+    <string name="text_imageview_6">text_imageview_6</string>
+    <string name="text_imageview_7">text_imageview_7</string>
+    <string name="text_imageview_8">text_imageview_8</string>
+    <string name="text_imageview_9">text_imageview_9</string>
+</resources>
